@@ -1,0 +1,23 @@
+Explicación de conceptos
+
+    * Variables: las variables sirven para guardar datos para acceder  mas tarde a  
+        estos, se escriben usando la combinación de textos que son reservados por el 
+        lenguaje (var, let, const) luego se ingresa el nombre de la variable y para 
+        asignarle la información se utiliza el signo (=), luego la información.
+
+	* Strings: Los strings son cadena de caracteres y se estriben entre comillas
+        simples o dobles comillas.
+
+    * Funciones (argumentos, `return`): Una función es un conjunto de instrucciones que se le dan computadora para que
+        realiza una tarea o calcula un valor este siempre tiene una entrada el cual es 
+        denominado como argumentos y una salida que puede ser el cálculo de un valor o 
+        la tarea realizada.
+
+    * Declaraciones `if`: Las declaraciones son las instrucciones que se le da a la computadora ,ejemplo pueden ser 
+        (return que retorna una información o  consol.log() que te imprime en pantalla lo que pongas entre los paréntesis) 
+        entre muchas otras declaraciones
+         
+    * Valores booleanos (`true`, `false`): Los valores booleanos  representados por(true y false) son un tipo de datos que 
+    podemos utilizar como los son también los string y números.
+    
+ 

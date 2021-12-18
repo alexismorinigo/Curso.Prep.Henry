@@ -1,0 +1,13 @@
+Explicacion de terminos
+ 
+    * for: El bucle for funciona con 3 expresiones (valor inicial, condicion, incrementado) 
+    lo que hace es agarra un valor inicial y lo incrementa asta que cumpla la condición.
+
+    *`&&`, `||`, `!`:
+    - && es equivalente a decir "y", si tienes una condición y quieres que cumpla contra condición
+      más puedes usar (&&) y agregar la siguiente condición.
+      
+    -|| es equivalente a decir "o" si tienes una condición y quieres que cumpla esta o la contra 
+     condición puedes usar (||) y agregar la siguiente condición.
+
+    -! es equivalente a negar lo que viene luego de él, ejemplo (!=5) eso sería diferente a 5 

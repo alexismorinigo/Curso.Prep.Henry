@@ -1,0 +1,4 @@
+Explicacion de conceptos
+Arrays : Los arrays son listados en los que podemos agregar cualquier 
+tipo de datos para posterior mente acceder a ellos y la forma de crear
+uno es ejemplo "var nombre del array = contenido del array entre [ ]"
